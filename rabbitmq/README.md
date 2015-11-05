@@ -1,1 +1,10 @@
 # rabbitmq
+
+build
+```
+
+```
+
+run
+
+
